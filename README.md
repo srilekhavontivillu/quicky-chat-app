@@ -24,6 +24,7 @@ JOINING-PERSON 2:
 ![](https://github.com/srilekhavontivillu/quicky-chat-app/blob/master/public/chat-2.jpeg?raw=true)
 
 * PERSON 2 RECEIVES THE MESSAGE AND REPLY FOR IT
+* EMOJI CAN BE USED
 
 ![](https://github.com/srilekhavontivillu/quicky-chat-app/blob/master/public/chat-3.jpeg?raw=true)
 
